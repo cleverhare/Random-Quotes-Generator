@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.content{
+    display: none;
+}
+.btn{
+    margin: 20px;
+}
+img{
+    height: 250px;
+    width: 200px;
+}
+/* //Everything is finished and you can improve the design and add more functionalities I guess. 
+// Always remeber in coding sky is the limit  */
